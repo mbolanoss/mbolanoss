@@ -12,7 +12,7 @@ My engineering background has led me to develop an early interest in software de
 | Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
 | SIEM implementation and log nalysis using Splunk and Wazuh         | <a href="https://github.com/mbolanoss/Active-Directory-SIEM-Simulation">Active Directory SIEM Simulation</a> <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
-| Security utomation with Shuffle SOAR         | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
+| Security automation with Shuffle SOAR         | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
 | Case management with TheHive                  | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
 | Configuration of an Active Directory environment. | <a href="https://github.com/mbolanoss/Active-Directory-SIEM-Simulation">Active Directory SIEM Simulation</a>|
