@@ -1,22 +1,21 @@
 # Hello, I'm Miguel Bolaños
 <a href="https://www.linkedin.com/in/mbolanoss/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent systems engineering graduate passionate about technology and the advantages we can get from it. I have practical experience in both software development and cybersecurity, and in the latter, I see myself as part of the Blue Team.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My engineering background has led me to develop an early interest in software development as that was my focus at the beginning of my college career, but as I neared completion, I became passionate about cybersecurity, and am now looking forward to transitioning into this field, specifically with the goal of joining a Security Operations Center (SOC) as a Tier 1 analyst.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM implementation and log nalysis using Splunk and Wazuh         | <a href="https://github.com/mbolanoss/Active-Directory-SIEM-Simulation">Active Directory SIEM Simulation</a> <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
+| Security utomation with Shuffle SOAR         | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
+| Case management with TheHive                  | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
+| Configuration of an Active Directory environment. | <a href="https://github.com/mbolanoss/Active-Directory-SIEM-Simulation">Active Directory SIEM Simulation</a>|
 
 ## Tools
 
