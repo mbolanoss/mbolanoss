@@ -15,32 +15,37 @@ My engineering background has led me to develop an early interest in software de
 | Security automation with Shuffle SOAR         | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
 | Case management with TheHive                  | <a href="https://github.com/mbolanoss/SOC-Automation">SOC Automation</a>|
-| Configuration of an Active Directory environment. | <a href="https://github.com/mbolanoss/Active-Directory-SIEM-Simulation">Active Directory SIEM Simulation</a>|
+| Administration of an Active Directory environment. | <a href="https://github.com/mbolanoss/Active-Directory-SIEM-Simulation">Active Directory SIEM Simulation</a>|
 
 ## Tools
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=tcpdump&logoColor=blue" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-FFFFFF?&style=for-the-badge&logoColor=blue" />
 
-
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0078D7?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Certifications
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle-FFA500?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Programming
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-DA291C?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C/C++-A8B9CC?&style=for-the-badge&logo=c&logoColor=white" />
+</div>
+
+## Online Courses & Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
