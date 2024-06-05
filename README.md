@@ -46,13 +46,10 @@ My engineering background has led me to develop an early interest in software de
 </div>
 
 ## Online Courses & Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+- Google Cybersecurity (Jun. 2024) - [Google](https://coursera.org/share/429506a5c1ea4aa48e5c81d3e8ba68a9) 
+- Network Defense (Dec. 2023) - [Cisco](https://www.credly.com/badges/c346a12e-bbcc-424e-829b-6fb749120ae5/public_url)
+- Cyber Threat Management (Nov. 2023) - [Cisco](https://www.credly.com/badges/25443bc8-00fe-4d6e-87d8-195fff1f480a/public_url)
+- Endpoint Security (Oct. 2023) - [Cisco](https://www.credly.com/badges/6803a267-b78b-4da5-bcca-9f032fa57c93/public_url)
 
 ## Projects
 - [Active Directory SIEM Simulation](https://github.com/mbolanoss/Active-Directory-SIEM-Simulation)
